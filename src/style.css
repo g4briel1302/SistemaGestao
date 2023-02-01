@@ -1,0 +1,23 @@
+
+html,body{height: 100%;}
+
+.main{
+    display: flex;
+    height: 100%;
+    
+}
+
+.content{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    
+   
+}
+
+.titulo-secao h2{
+    color:rgb(255,94,0);
+    font-size: 18px;
+    
+}
+
+

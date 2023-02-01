@@ -1,0 +1,22 @@
+
+
+
+
+.main{
+    padding: 15px;
+}
+
+fieldset{
+    padding: 10px;
+}
+
+#submit{
+    background-color: green;
+    width: 6%;
+    color: white;
+}
+
+#observaçao{
+    height: 80px;
+    width: 99%;
+}
